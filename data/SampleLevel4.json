@@ -1,1 +1,18 @@
-
+{
+    "id": 95998005,
+    "name": "SARYYX NEVER CLEAR",
+    "author": "aartos",
+    "creators": ["aartos"],
+    "verifier": "skzyl",
+    "verification": "https://youtu.be/rRlyvmjcz_4?feature=shared",
+    "percentToQualify": 66,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
