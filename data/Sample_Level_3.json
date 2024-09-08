@@ -2,8 +2,7 @@
     "id": "89414220",
     "name": "MINUSdry",
     "author": "CDMusic",
-    "creator1": ["CDMusic"],
-    "creator2": ["Sevant"],
+    "creators": ["CDMusic, Sevant"]
     "verifier": "Varium",
     "verification": "https://youtu.be/YvA8ehhzz0Q?feature=shared",
     "percentToQualify": 56,
