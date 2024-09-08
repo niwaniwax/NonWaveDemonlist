@@ -1,24 +1,18 @@
 {
-    "id": 89414220,
+    "id": "89414220",
     "name": "MINUSdry",
     "author": "CDMusic",
-    "creators": ["CDMusic"], ["Sevant"]
-    "verifier": "Varium"
+    "creators": ["CDMusic"], ["Sevant"],
+    "verifier": "Varium",
     "verification": "https://youtu.be/YvA8ehhzz0Q?feature=shared",
-    "percentToQualify": "56"
-    "password": "Free Copy"
+    "percentToQualify": 56,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
