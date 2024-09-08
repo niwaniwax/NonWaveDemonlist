@@ -1,18 +1,18 @@
 {
-    "id": 109780665,
+    "id": "109780665",
     "name": "Nullscapes",
     "author": "ItzKiba",
     "creators": ["ItzKiba"],
     "verifier": "Zoink",
     "verification": "https://youtu.be/EztneTPp5CU?feature=shared",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "percent": "100",
+            "hz": "360"
         }
     ]
 }
