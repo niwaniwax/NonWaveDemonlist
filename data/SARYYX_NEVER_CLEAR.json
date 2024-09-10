@@ -2,9 +2,11 @@
     "id": 95998005,
     "name": "SARYYX NEVER CLEAR",
     "author": "aartos",
-    "creators": ["aartos"],
+    "creators": [
+        "aartos"
+    ],
     "verifier": "skzyl",
-    "verification": "https://youtu.be/rRlyvmjcz_4?feature=shared",
+    "verification": "https://youtu.be/rRlyvmjcz_4",
     "percentToQualify": 66,
     "password": "Free Copy",
     "records": []

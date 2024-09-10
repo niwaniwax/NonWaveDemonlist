@@ -2,9 +2,20 @@
     "id": 107238250,
     "name": "Viprin UFO",
     "author": "nothawkyre",
-    "creators": ["Valentine", "MoonlightMari", "Arithi", "Morin", "Noodle", "Smear", "Solar", "nothawkyre", "Graded", "Phantom"],
+    "creators": [
+        "Valentine",
+        "MoonlightMari",
+        "Arithi",
+        "Morin",
+        "Noodle",
+        "Smear",
+        "Solar",
+        "nothawkyre",
+        "Graded",
+        "Phantom"
+    ],
     "verifier": "Cookie",
-    "verification": "https://youtu.be/LTMW9Py-nHE?feature=shared",
+    "verification": "https://youtu.be/LTMW9Py-nHE",
     "percentToQualify": 50,
     "password": "Free Copy",
     "records": []
