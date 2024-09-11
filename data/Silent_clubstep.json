@@ -2,9 +2,11 @@
     "id": 4125776,
     "name": "Silent clubstep",
     "author": "TheRealSailent",
-    "creators": ["TheRealSailent"],
-    "verifier": "zoe",
-    "verification": "https://youtu.be/GR4OMkS3SN8?feature=shared",
+    "creators": [
+        "TheRealSailent"
+    ],
+    "verifier": "ZOE",
+    "verification": "https://youtu.be/GR4OMkS3SN8",
     "percentToQualify": 34,
     "password": "Not Copyable",
     "records": []

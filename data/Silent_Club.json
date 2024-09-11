@@ -2,9 +2,11 @@
     "id": 68600127,
     "name": "Silent Club",
     "author": "Luqualizer",
-    "creators": ["BlackP2sFull"],
+    "creators": [
+        "BlackP2sFull"
+    ],
     "verifier": "Luqualizer",
-    "verification": "https://youtu.be/NjEiHIokTGM?feature=shared",
+    "verification": "https://youtu.be/NjEiHIokTGM",
     "percentToQualify": 50,
     "password": "Free Copy",
     "records": []

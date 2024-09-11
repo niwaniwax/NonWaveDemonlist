@@ -1,10 +1,16 @@
 {
     "id": 33498127,
     "name": "SARY NEVER CLEAR",
-    "author": "Kugelblitz",
-    "creators": ["Eyeris", "xNorth", "Optic Sunflow", "Cypher", "Kugelblitz"],
+    "author": "KugelBlitZ",
+    "creators": [
+        "Eyeris",
+        "xNorth",
+        "Optic Sunflow",
+        "Cypher",
+        "Kugelblitz"
+    ],
     "verifier": "Spamdrew128",
-    "verification": "https://youtu.be/23u3SlwrOMw?feature=shared",
+    "verification": "https://youtu.be/23u3SlwrOMw",
     "percentToQualify": 60,
     "password": "Free Copy",
     "records": []

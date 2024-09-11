@@ -2,9 +2,11 @@
     "id": 109780665,
     "name": "Nullscapes",
     "author": "ItzKiba",
-    "creators": ["ItzKiba"],
+    "creators": [
+        "ItzKiba"
+    ],
     "verifier": "Zoink",
-    "verification": "https://youtu.be/EztneTPp5CU?feature=shared",
+    "verification": "https://www.youtube.com/watch?v=EztneTPp5CU",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": []

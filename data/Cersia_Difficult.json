@@ -2,10 +2,13 @@
     "id": 74840882,
     "name": "Cersia Difficult",
     "author": "Cersia",
-    "creators": ["Cersia", "KydeR"],
+    "creators": [
+        "Cersia",
+        "KydeR"
+    ],
     "verifier": "Cersia",
     "verification": "https://youtu.be/8Vi_wD2wp-w",
-    "percentToQualify": 100,
+    "percentToQualify": 60,
     "password": "Free Copy",
     "records": []
 }

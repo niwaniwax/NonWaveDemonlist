@@ -1,8 +1,11 @@
 {
     "id": 75813671,
     "name": "Lotus Flower",
-    "author": "StarkytheSalad",
-    "creators": ["StarkytheSalad", "zzzgecko"],
+    "author": "StarkyTheSalad",
+    "creators": [
+        "StarkytheSalad",
+        "zzzgecko"
+    ],
     "verifier": "BrianTheBurger",
     "verification": "https://youtu.be/pTgOHcwJhd0",
     "percentToQualify": 63,
