@@ -9,5 +9,13 @@
     "verification": "https://youtu.be/VZS5Yn9Y-OI",
     "percentToQualify": 58,
     "password": "Free Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Three.one",
+            "link": "https://youtu.be/YJ65Ym62Dzo?feature=shared",
+            "percent": 66,
+            "hz": 60
+        }
+
+    ]
 }
